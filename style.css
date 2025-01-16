@@ -1,0 +1,25 @@
+.title {
+    color: black;
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+.menu ul li{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.menu {
+    background-color: aquamarine;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
